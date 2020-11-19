@@ -40,10 +40,10 @@ public class BankUser implements Serializable{
 	@Column(name="U_ID")
 	private int userId;
 	
-	@Column
+	@Column(name="username")
 	private String username;
 	
-	@Column
+	@Column(name="password")
 	private String password;
 	
 	@Column(name="FIRST_NAMES")

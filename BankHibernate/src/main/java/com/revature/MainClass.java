@@ -29,9 +29,9 @@ public class MainClass {
 		// to persist objects to your database.
 		//----------------------------------------------------------
 		
-//		hibernateReadExample();
-//		hibernateReadAccount();
-//		getVsLoad();
+		hibernateReadExample();
+		hibernateReadAccount();
+		getVsLoad();
 	}
 	
 	
